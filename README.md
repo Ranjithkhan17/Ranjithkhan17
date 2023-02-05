@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranjith kumar</h1>
+<img src="https://camo.githubusercontent.com/b995d7197188fbc1d9e072f2808bf1eae783444dd45cf152097fc410146426bd/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966" alt="devops" align="right" style="width:200px;height:250px;">
 <h3 align="center">I'm Cloud Support Engineer with 7 years of total experience and currently working with Devops tools such as Github,jenkins,docker,Terraform,Kubernetes etc. at Testing environments.</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjithkhan17" alt="ranjithkhan17" /></a> </p>
 
 - 🔭 I’m currently working on **Msys Technologies**
@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/@www.linkedin.com/in/ranjith-kumar-cloudengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@www.linkedin.com/in/ranjith-kumar-cloudengineer" height="30" width="40" /></a>
 <a href="https://medium.com/@ranjithkumar.khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjithkumar.khan" height="30" width="40" /></a>
 </p>
 
