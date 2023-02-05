@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ranjith kumar</h1>
 <img src="https://camo.githubusercontent.com/b995d7197188fbc1d9e072f2808bf1eae783444dd45cf152097fc410146426bd/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966" alt="devops" align="right" style="width:200px;height:200px;">
 <h3 align="center">I'm Cloud Support Engineer with 7 years of total experience and currently working with Devops tools such as Github,jenkins,docker,Terraform,Kubernetes etc. at Testing environments.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjithkhan17" alt="ranjithkhan17" /></a> </p>
 
 - 🔭 I’m currently working on **Msys Technologies**
 
