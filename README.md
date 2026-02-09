@@ -1,11 +1,11 @@
 ![logo](https://github.com/Ranjithkhan17/Ranjithkhan17/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ranjith kumar</h1>
 <img src="https://camo.githubusercontent.com/b995d7197188fbc1d9e072f2808bf1eae783444dd45cf152097fc410146426bd/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966" alt="devops" align="right" style="width:200px;height:200px;">
-<h3 align="center">I working as Specialist at HCLTECH with 9.5 years of total experience and currently working with Devops tools such as Github,Linux,UNIX support,Chef automation, Ansible, Terraform,Kubernetes etc. at dev and prod environments as well as cloud(AWS).</h3>
+<h3 align="center">I working as Infra Specialist at HCLTECH with 9.5 years of total experience and currently working with Devops tools as well as AI automation such as Github,Linux,UNIX support,Chef automation, Ansible, Terraform,Kubernetes etc. at dev and prod environments as well as multi-cloud(AWS)(GCP).</h3>
 
 - 🔭 I’m currently working on **HCLTECH**
 
-- 🌱 I’m currently learning **Python,shell scripting,kubernetes,Google cloud**
+- 🌱 I’m currently learning **Generavtve AI, AI automation, Agentic AI,shell scripting,kubernetes,Google cloud**
 
 - 👯 I’m looking to collaborate on **Devops community**
 
