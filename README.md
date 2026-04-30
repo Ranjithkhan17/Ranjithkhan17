@@ -15,6 +15,7 @@ Infra Specialist at **HCLTECH** with 10+ years of experience. Currently working 
 - 👯 **Looking to collaborate on:** DevOps community projects
 - 👨‍💻 **Portfolio:** [GitHub Projects](https://github.com/Ranjithkhan17)
 - 📝 **Articles:** [Medium Blog](https://medium.com/@ranjithkumar.khan)
+- 🎥 **YouTube Channel:** [RK Tech Learning](https://www.youtube.com/@RKTechlearning-n8e)
 - 📫 **Email:** ranjithkumar.khan@gmail.com
 - 📄 **Experience:** [LinkedIn Profile](https://www.linkedin.com/in/ranjith-kumar-cloudengineer/)
 - ⚡ **Fun fact:** Fan of SRK, always ready to learn new things in both job and life!
@@ -25,6 +26,7 @@ Infra Specialist at **HCLTECH** with 10+ years of experience. Currently working 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith-kumar-cloudengineer/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ranjithkumar.khan)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@RKTechlearning-n8e)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ranjithkhan17)
 
 ---
