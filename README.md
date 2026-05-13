@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ranjith Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Infra+Specialist+%7C+DevOps+Engineer;10%2B+Years+of+Experience;Cloud+%26+AI+Automation+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Infra+Specialist+%7C+DevOps+Engineer;10%2B+Years+of+Experience;Cloud+Engineer;DevOps+Automation+Expert" alt="Typing SVG" />
 
 🚀 **Helping teams build scalable, automated infrastructure with DevOps & AI**
 
@@ -101,15 +101,15 @@ Infra Specialist at **HCLTECH** with 10+ years of experience. Currently working 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjithkhan17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-beta.vercel.app/api/top-langs?username=ranjithkhan17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjithkhan17&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-seven-beta.vercel.app/api?username=ranjithkhan17&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ranjithkhan17&theme=github" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjithkhan17&theme=github" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -133,4 +133,4 @@ Looking to collaborate on DevOps projects, discuss cloud architecture, or explor
 
 ---
 
-**Last updated:** April 30, 2026
+**Last updated:** May 13, 2026
