@@ -127,7 +127,7 @@ Infra Specialist at **HCLTECH** with 10+ years of experience. Currently working 
 
 Looking to collaborate on DevOps projects, discuss cloud architecture, or explore AI automation solutions? I'd love to hear from you!
 
-📧 **Email:** ranjithkumar.khan@gmail.com  
+📧 **Email:** rktechlearning17@gmail.com  
 💼 **LinkedIn:** [Ranjith Kumar](https://www.linkedin.com/in/ranjith-kumar-cloudengineer/)  
 🎥 **YouTube:** [RK Tech Learning](https://www.youtube.com/@RKTechlearning-n8e)
 
