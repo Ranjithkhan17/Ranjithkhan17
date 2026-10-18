@@ -1,14 +1,46 @@
 # ![logo](https://github.com/Ranjithkhan17/Ranjithkhan17/blob/main/banner.png)
 
-# Hi 👋, I'm Ranjith Kumar
+<h1 align="center">Hi 👋, I'm Ranjith Kumar</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Senior Infra+Specialist+%7C+DevOps+Engineer;10%2B+Years+of+Experience;Cloud+Engineer;DevOps+Automation+Expert" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Senior+Infra+Specialist+%7C+DevOps+Engineer;10%2B+Years+of+Experience;Cloud+Automation+%7C+AI+Driven+Infrastructure" alt="Typing SVG" />
+</p>
 
-🚀 **Helping teams build scalable, automated infrastructure with DevOps & AI**
+<p align="center">
+  <strong>🚀 Helping teams build scalable, automated infrastructure with DevOps & AI</strong>
+</p>
 
-Infra Specialist at **HCLTECH** with 10+ years of experience. Currently working with DevOps tools and AI automation including GitHub, Linux, UNIX support, Chef, and Kubernetes.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ranjith-kumar-cloudengineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@ranjithkumar.khan">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.youtube.com/@RKTechlearning-n8e">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://github.com/Ranjithkhan17">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ranjithkumar.khan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  Infra Specialist at <strong>HCLTECH</strong> with 10+ years of experience in DevOps, cloud automation, Linux/UNIX support, Kubernetes, and AI-driven infrastructure solutions.
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Cloud%20Automation-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-GitHub%20%7C%20Linux%20%7C%20Kubernetes-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interested-AI%20%7C%20Automation-FF6B6B?style=for-the-badge" />
+</div>
 
 ---
+
+## 📋 About Me
 
 ## 📋 About Me
 
