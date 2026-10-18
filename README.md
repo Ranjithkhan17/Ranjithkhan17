@@ -2,10 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ranjith Kumar</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Senior+Infra+Specialist+%7C+DevOps+Engineer;10%2B+Years+of+Experience;Cloud+Automation" alt="Typing SVG" />
-</p>
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&height=80&size=24&lines=Senior%20Infra%20Specialist%20%7C%20DevOps%20Engineer;10%2B%20Years%20of%20Experience;Cloud%20Automation%20%7C%20AI%20Driven%20Infrastructure" alt="Typing SVG" /> </p>
 <p align="center">
   <strong>🚀 Helping teams build scalable, automated infrastructure with DevOps & AI</strong>
 </p>
