@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ranjith Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines= Senior Infra+Specialist+%7C+DevOps+Engineer;10%2B+Years+of+Experience;Cloud+Engineer;DevOps+Automation+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Senior Infra+Specialist+%7C+DevOps+Engineer;10%2B+Years+of+Experience;Cloud+Engineer;DevOps+Automation+Expert" alt="Typing SVG" />
 
 🚀 **Helping teams build scalable, automated infrastructure with DevOps & AI**
 
